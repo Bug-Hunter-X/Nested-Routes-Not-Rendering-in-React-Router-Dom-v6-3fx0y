@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with nested routes in React Router DOM v6.  The problem occurs when child routes within a parent route fail to render correctly, often resulting in a 404 error despite navigating to a valid path. The solution provided addresses this by correctly structuring the routes using the `useParams` hook and ensuring proper path matching.
